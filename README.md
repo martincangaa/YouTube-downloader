@@ -1,5 +1,5 @@
 # YouTube-downloader
-A YouTube video or audio downloader based on pytube
+A YouTube video or audio downloader based on pytube.
 
 ``` python
 import pkg_resources
